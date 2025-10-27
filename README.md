@@ -1,6 +1,6 @@
 # Create a Simple REST API in Groovy with Micronaut
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68fefeb2ada0581d10412383/create-a-simple-rest-api-in-groovy-with-micronaut).
 
 ## Micronaut 4.10.0 Documentation
 
